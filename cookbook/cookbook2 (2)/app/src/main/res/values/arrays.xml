@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="major">
+        <item>컴퓨터공학과</item>
+        <item>멀티미디어공학과</item>
+        <item>소프트웨어융합</item>
+        <item></item>
+
+    </string-array>
+    
+</resources>
+
+
+

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\J\\Desktop\\Cook-1\\cookbook2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\J\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d38c95a8c6df35410dd258f0f3fddc2f\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\J\\Desktop\\Cook-1\\cookbook2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\J\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d38c95a8c6df35410dd258f0f3fddc2f\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\J\\Desktop\\Cook-1\\cookbook2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\bb_bottom_bar_item_container.xml",
+        "source": "C:\\Users\\J\\.gradle\\caches\\transforms-1\\files-1.1\\bottom-bar-2.3.1.aar\\8b8efe31800237e0c49e90cd49cf6647\\res\\layout-v21\\bb_bottom_bar_item_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\J\\Desktop\\Cook-1\\cookbook2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\J\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d38c95a8c6df35410dd258f0f3fddc2f\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\J\\Desktop\\Cook-1\\cookbook2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\J\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d38c95a8c6df35410dd258f0f3fddc2f\\res\\layout-v21\\notification_action.xml"
+    }
+]

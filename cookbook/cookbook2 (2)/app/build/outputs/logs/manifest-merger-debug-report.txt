@@ -1,0 +1,208 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [com.roughike:bottom-bar:2.3.1] C:\Users\J\.gradle\caches\transforms-1\files-1.1\bottom-bar-2.3.1.aar\8b8efe31800237e0c49e90cd49cf6647\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\e1748c4573030e902e105be449f9ccfe\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\e681d2ec1bcd1a62ef92a4bb30166c49\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\db95e78495573c04b9957a1faf165563\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\fb5751acf96aa82f8a0220d87abd8955\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\d8852bb17378364606fe9226a917bac3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\1f1688e3fd67dd779e1ca16044e90cff\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\50dbd363bfbe06ace3a5f9e2c273acae\AndroidManifest.xml:17:1-31:12
+MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\J\.gradle\caches\transforms-1\files-1.1\butterknife-8.5.1.aar\e5dc35911b1584541b27eead1067735c\AndroidManifest.xml:2:1-7:12
+MERGED from [com.melnykov:floatingactionbutton:1.3.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\floatingactionbutton-1.3.0.aar\5578c39fff4ef46e5d4398982786cb80\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b9972aa9fbc7336f274050766e8d6c7c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b8a35352be38c5e525d658c6d8dc324d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\c6ad4acd9bb86ebafb51179671767f14\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\b1db5473085593d4cd21eaa3779e5736\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9c9842a062a9677435ab8a06e5cc2fed\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\d38c95a8c6df35410dd258f0f3fddc2f\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f4285ee87573ac608a78f92e1bc74bb5\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml:5:5-28:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\e1748c4573030e902e105be449f9ccfe\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\e1748c4573030e902e105be449f9ccfe\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\e681d2ec1bcd1a62ef92a4bb30166c49\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\e681d2ec1bcd1a62ef92a4bb30166c49\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\db95e78495573c04b9957a1faf165563\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\db95e78495573c04b9957a1faf165563\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\fb5751acf96aa82f8a0220d87abd8955\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\fb5751acf96aa82f8a0220d87abd8955\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\d8852bb17378364606fe9226a917bac3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\d8852bb17378364606fe9226a917bac3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:transition:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\1f1688e3fd67dd779e1ca16044e90cff\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\1f1688e3fd67dd779e1ca16044e90cff\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\50dbd363bfbe06ace3a5f9e2c273acae\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\50dbd363bfbe06ace3a5f9e2c273acae\AndroidManifest.xml:25:5-29:19
+MERGED from [com.melnykov:floatingactionbutton:1.3.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\floatingactionbutton-1.3.0.aar\5578c39fff4ef46e5d4398982786cb80\AndroidManifest.xml:12:5-20
+MERGED from [com.melnykov:floatingactionbutton:1.3.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\floatingactionbutton-1.3.0.aar\5578c39fff4ef46e5d4398982786cb80\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b9972aa9fbc7336f274050766e8d6c7c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b9972aa9fbc7336f274050766e8d6c7c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b8a35352be38c5e525d658c6d8dc324d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b8a35352be38c5e525d658c6d8dc324d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\c6ad4acd9bb86ebafb51179671767f14\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\c6ad4acd9bb86ebafb51179671767f14\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\b1db5473085593d4cd21eaa3779e5736\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\b1db5473085593d4cd21eaa3779e5736\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9c9842a062a9677435ab8a06e5cc2fed\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9c9842a062a9677435ab8a06e5cc2fed\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\d38c95a8c6df35410dd258f0f3fddc2f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\d38c95a8c6df35410dd258f0f3fddc2f\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f4285ee87573ac608a78f92e1bc74bb5\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f4285ee87573ac608a78f92e1bc74bb5\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.administrator.cookbook.LoginActivity
+ADDED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml:12:9-20:20
+	android:label
+		ADDED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml:14:13-45
+	android:name
+		ADDED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml:13:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.example.administrator.cookbook.RegisterActivity
+ADDED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml:22:9-54
+	android:name
+		ADDED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml:22:19-51
+activity#com.example.administrator.cookbook.MainActivity
+ADDED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml:23:9-49
+	android:name
+		ADDED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml:23:19-47
+activity#com.example.administrator.cookbook.startactivity
+ADDED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml:24:9-50
+	android:name
+		ADDED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml:24:19-48
+activity#com.example.administrator.cookbook.Cook_Activity
+ADDED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml:25:9-50
+	android:name
+		ADDED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml:25:19-48
+activity#com.example.administrator.cookbook.IngredToBuyActivity
+ADDED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml:26:9-56
+	android:name
+		ADDED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml:26:19-54
+uses-sdk
+INJECTED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml
+MERGED from [com.roughike:bottom-bar:2.3.1] C:\Users\J\.gradle\caches\transforms-1\files-1.1\bottom-bar-2.3.1.aar\8b8efe31800237e0c49e90cd49cf6647\AndroidManifest.xml:8:5-10:41
+MERGED from [com.roughike:bottom-bar:2.3.1] C:\Users\J\.gradle\caches\transforms-1\files-1.1\bottom-bar-2.3.1.aar\8b8efe31800237e0c49e90cd49cf6647\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\e1748c4573030e902e105be449f9ccfe\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\e1748c4573030e902e105be449f9ccfe\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\e681d2ec1bcd1a62ef92a4bb30166c49\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\e681d2ec1bcd1a62ef92a4bb30166c49\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\db95e78495573c04b9957a1faf165563\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\db95e78495573c04b9957a1faf165563\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\fb5751acf96aa82f8a0220d87abd8955\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\fb5751acf96aa82f8a0220d87abd8955\AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\d8852bb17378364606fe9226a917bac3\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\d8852bb17378364606fe9226a917bac3\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:transition:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\1f1688e3fd67dd779e1ca16044e90cff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\1f1688e3fd67dd779e1ca16044e90cff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\50dbd363bfbe06ace3a5f9e2c273acae\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\50dbd363bfbe06ace3a5f9e2c273acae\AndroidManifest.xml:21:5-23:54
+MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\J\.gradle\caches\transforms-1\files-1.1\butterknife-8.5.1.aar\e5dc35911b1584541b27eead1067735c\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\J\.gradle\caches\transforms-1\files-1.1\butterknife-8.5.1.aar\e5dc35911b1584541b27eead1067735c\AndroidManifest.xml:5:5-43
+MERGED from [com.melnykov:floatingactionbutton:1.3.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\floatingactionbutton-1.3.0.aar\5578c39fff4ef46e5d4398982786cb80\AndroidManifest.xml:8:5-10:41
+MERGED from [com.melnykov:floatingactionbutton:1.3.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\floatingactionbutton-1.3.0.aar\5578c39fff4ef46e5d4398982786cb80\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b9972aa9fbc7336f274050766e8d6c7c\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b9972aa9fbc7336f274050766e8d6c7c\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b8a35352be38c5e525d658c6d8dc324d\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b8a35352be38c5e525d658c6d8dc324d\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\c6ad4acd9bb86ebafb51179671767f14\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\c6ad4acd9bb86ebafb51179671767f14\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\b1db5473085593d4cd21eaa3779e5736\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\b1db5473085593d4cd21eaa3779e5736\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9c9842a062a9677435ab8a06e5cc2fed\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9c9842a062a9677435ab8a06e5cc2fed\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\d38c95a8c6df35410dd258f0f3fddc2f\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\d38c95a8c6df35410dd258f0f3fddc2f\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f4285ee87573ac608a78f92e1bc74bb5\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f4285ee87573ac608a78f92e1bc74bb5\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\e1748c4573030e902e105be449f9ccfe\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\J\Desktop\Cook-1\cookbook2\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\e1748c4573030e902e105be449f9ccfe\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\e681d2ec1bcd1a62ef92a4bb30166c49\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\e681d2ec1bcd1a62ef92a4bb30166c49\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\db95e78495573c04b9957a1faf165563\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\db95e78495573c04b9957a1faf165563\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\fb5751acf96aa82f8a0220d87abd8955\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\fb5751acf96aa82f8a0220d87abd8955\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\1f1688e3fd67dd779e1ca16044e90cff\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\1f1688e3fd67dd779e1ca16044e90cff\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\50dbd363bfbe06ace3a5f9e2c273acae\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\50dbd363bfbe06ace3a5f9e2c273acae\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b9972aa9fbc7336f274050766e8d6c7c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b9972aa9fbc7336f274050766e8d6c7c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b8a35352be38c5e525d658c6d8dc324d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b8a35352be38c5e525d658c6d8dc324d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\c6ad4acd9bb86ebafb51179671767f14\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\c6ad4acd9bb86ebafb51179671767f14\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\b1db5473085593d4cd21eaa3779e5736\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\b1db5473085593d4cd21eaa3779e5736\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9c9842a062a9677435ab8a06e5cc2fed\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9c9842a062a9677435ab8a06e5cc2fed\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\d38c95a8c6df35410dd258f0f3fddc2f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\d38c95a8c6df35410dd258f0f3fddc2f\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\e1748c4573030e902e105be449f9ccfe\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\e1748c4573030e902e105be449f9ccfe\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f4285ee87573ac608a78f92e1bc74bb5\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f4285ee87573ac608a78f92e1bc74bb5\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\J\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f4285ee87573ac608a78f92e1bc74bb5\AndroidManifest.xml:26:13-58

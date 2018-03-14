@@ -1,0 +1,4 @@
+#Fri Dec 22 10:01:45 KST 2017
+base.0=C\:\\Users\\J\\Desktop\\Cook-1\\cookbook2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
