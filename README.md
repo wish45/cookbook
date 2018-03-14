@@ -1,2 +1,0 @@
-# cookbook
-android pjt
